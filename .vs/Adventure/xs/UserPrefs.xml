@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{7B00CD38-337B-4CF0-A291-DEDEFF723C69}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/AdventureBookController.cs">
+    <Files>
+      <File FileName="Controllers/AdventureBookController.cs" Line="96" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Adventure" expanded="True">
+            <Node name="Adventure" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AdventureBookController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Adventure" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Adventure PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
