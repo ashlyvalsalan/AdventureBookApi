@@ -41,6 +41,7 @@ namespace Adventure
                 options.AddPolicy(MyAllowSpecificOrigins, builder =>
                 {
                     builder.WithOrigins("http://localhost:3000", "frontend.com")
+                    .AllowAnyOrgin()
                     .AllowAnyHeader()
                     .AllowAnyMethod();
                 });
